@@ -89,10 +89,10 @@ h1{
 .contact-me{
   position: absolute;
   top: 1200px;
-  left: 420px;
-  right: auto;
   padding-bottom: 100px;
   padding-top: 20%;
+  padding-right: 20%;
+  padding-left: 35.7%;
 }
 .favourite{
   text-align: left;
@@ -148,8 +148,12 @@ h3{
 }
 .line{
   position: relative;
-  margin-top: 350px;
+  margin-top: 22%;
   padding-top: 14%;
+  border-bottom: 40%;
+  border-left: 40%;
+  border-right: 40%;
+  
 }
 hr{
   border-style: dotted;
@@ -160,4 +164,9 @@ hr{
   width: 5%;
   border-width: 7px;
   color: #b0c2c5d8;
+  border-bottom: 20%;
+}
+.profile{
+  padding-left: 20%;
+  padding-right: 20%;
 }
